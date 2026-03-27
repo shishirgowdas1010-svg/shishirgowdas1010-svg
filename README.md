@@ -1,4 +1,4 @@
-# Srinivas P
+# Shishir Gowda S
 
 ## 👋 About Me
 Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
@@ -26,7 +26,7 @@ Hello! I'm a passionate developer who enjoys learning new technologies, building
 ---
 
 ## 🛠️ Tools
-VS Code • Git • GitHub • Supabase
+VS Code • Git • GitHub • Supabase 
 
 ---
 
